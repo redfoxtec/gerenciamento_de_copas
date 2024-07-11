@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/redfoxtec/gerenciamento_de_copas.git"
+            "url": "https://github.com/seu-repositorio-privado"
         }
     ]
 }
